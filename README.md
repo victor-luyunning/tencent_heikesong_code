@@ -1,9 +1,14 @@
+![Tencent Hackathon](https://img.shields.io/badge/Supported%20by-Tencent%20Hackathon-00C7B9?logo=tencentqq)
+![Tencent Cloud](https://img.shields.io/badge/Powered%20by-Tencent%20Cloud-00C7B9?logo=tencentyun)
+
 🙏 致谢
 本项目的顺利开发与实现离不开以下平台与团队的支持，在此诚挚致谢：
 
-腾讯“黑客松”
+· 腾讯“黑客松”
 感谢提供优质的开发场地与赛事支持，为创新想法的落地创造了良好的环境。
-腾讯云智能体平台
+
+· 腾讯云智能体平台
 提供了稳定高效的开发环境支持，助力项目快速迭代与部署。
-腾讯云 × 腾讯优图 / 腾讯元宝 / DeepSeek 大模型
+
+· 腾讯云 × 腾讯优图 / 腾讯元宝 / DeepSeek 大模型
 感谢在 AI 能力层面提供的强大模型支持，包括图像识别、自然语言处理等能力，显著提升了项目的智能化水平。
